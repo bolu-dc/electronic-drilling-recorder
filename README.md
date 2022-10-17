@@ -1,1 +1,1 @@
-# electronic-drilling-recorder
+# Electronic Drilling Recorder
